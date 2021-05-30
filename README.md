@@ -11,6 +11,7 @@
 The following image shows the web application's appearance and codebace:
 
 ![The Horiseon webpage with code preview window](.\assets\images\Capture.PNG)
+<img src=".\assets\images\Capture.PNG" alt="The Horiseon webpage with code preview window"/>
 
 
 
